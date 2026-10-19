@@ -6,17 +6,14 @@ This project retrieves historical price data for multiple outcomes within a Poly
 
 Features:
 
-Retrieves event and market metadata through the Polymarket API.
+- Retrieves event and market metadata through the Polymarket API.
 
-Extracts outcome labels and token identifiers.
+- Extracts outcome labels and token identifiers.
 
-Collects historical price data for market outcomes.
+- Collects historical price data for market outcomes.
 
-Processes timestamps and organizes observations into time-series tables.
+- Processes timestamps and organizes observations into time-series tables.
 
-Exports the results to Excel for further analysis.
+- Exports the results to Excel for further analysis.
 
 
-Project Purpose
-
-This project was built to explore prediction-market data collection and develop practical experience with APIs, time-series data processing, and data organization.
